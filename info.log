@@ -35,3 +35,7 @@
 {"message":"Card with id 1 deleted.","level":"info"}
 {"message":"Card with id 1 deleted.","level":"info"}
 {"message":"Card with id 2 deleted.","level":"info"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 1b836b43-828d-43ff-99c1-a78886f5915a created","level":"info"}
+{"message":"Card with id 1b836b43-828d-43ff-99c1-a78886f5915a deleted.","level":"info"}
