@@ -92,3 +92,325 @@
 {"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
 {"message":"Bookmark with id de9b8be6-5ab4-480a-97fa-e9449996ffc5 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id c092abe8-1605-4dc9-ac78-665a9ed46e94 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 97b67f78-e61c-4268-bab4-b782ac69f227 created","level":"info"}
+{"message":"Bookmark with id 6e04bf71-ec61-486b-931f-f0f28703e078 created","level":"info"}
+{"message":"Bookmark with id 11da83ef-b091-48ce-ab0b-c8fcb86815ca created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 887fb5b1-ff9f-4175-81f5-4f6b6cede0bb created","level":"info"}
+{"message":"Bookmark with id af2450a0-eb53-464b-b01e-0ec1d7a6bce9 created","level":"info"}
+{"message":"database \"brandiherrera\" does not exist","level":"error"}
+{"message":"Bookmark with id 39ba5058-60fb-4e03-88ed-ae432fc9769f created","level":"info"}
+{"message":"database \"brandiherrera\" does not exist","level":"error"}
+{"message":"Bookmark with id 3dbdb4fe-847a-4ad2-9040-02027089531d deleted.","level":"info"}
+{"message":"database \"brandiherrera\" does not exist","level":"error"}
+{"message":"database \"brandiherrera\" does not exist","level":"error"}
+{"message":"Bookmark with id e26e9ad0-9806-4286-bc8b-83d7cb066b21 deleted.","level":"info"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Bookmark with id e5b1cb17-5ebc-4862-9515-1105b2ff2ff1 created","level":"info"}
+{"message":"Bookmark with id 560f0dec-a0fd-4215-b06d-2cdc6f207927 created","level":"info"}
+{"message":"Bookmark with id 23a50ec7-5d1b-4e5d-861d-fa02bcdd5e5b created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 853a8f3c-ba2f-4194-94b1-f0ddfc842850 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 40d884b4-216c-4eb1-b9d9-2cfbcb186714 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id f77f17bb-a319-4c06-84d5-40ef430b9fc0 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Bookmark with id 2bd25ad5-4357-48ec-86f0-fe346edb6e4c created","level":"info"}
+{"message":"Bookmark with id 7181696f-858b-4cb4-bc41-736db1bc5b05 created","level":"info"}
+{"message":"Bookmark with id 3 not found.","level":"error"}
+{"message":"Bookmark with id fc0d7d13-847f-4a1b-b204-70d8c176a1bb created","level":"info"}
+{"message":"Bookmark with id b0da7302-d3de-4f89-b268-772495cfc155 created","level":"info"}
+{"message":"Bookmark with id 7 not found.","level":"error"}
+{"message":"Bookmark with id ce6e48b4-3626-45da-bf8d-f2965da013b2 created","level":"info"}
+{"message":"select * from \"bookmarks\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"ce6e48b4-3626-45da-bf8d-f2965da013b2\"","level":"error"}
+{"message":"select * from \"bookmarks\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"ce6e48b4-3626-45da-bf8d-f2965da013b2\"","level":"error"}
+{"message":"Bookmark with id 64010364-0543-46ee-82fd-685eceda30d0 created","level":"info"}
+{"message":"select * from \"bookmarks\" where \"id\" = $1 limit $2 - invalid input syntax for integer: \"b45f076f-5472-4fad-8a63-9a92ad3e9885\"","level":"error"}
+{"message":"Bookmark with id b45f076f-5472-4fad-8a63-9a92ad3e9885 deleted.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id b45f076f-5472-4fad-8a63-9a92ad3e9885 deleted.","level":"info"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Bookmark with id e4a0b131-d83c-474a-9b3d-2466f40ee2c2 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/458f8f8d-73a7-422a-9662-ccf456bc989b","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/458f8f8d-73a7-422a-9662-ccf456bc989b","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/458f8f8d-73a7-422a-9662-ccf456bc989b","level":"error"}
+{"message":"Bookmark with id 458f8f8d-73a7-422a-9662-ccf456bc989b deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 43d6337f-1f55-4261-ae21-e8639a5f58f7 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e7b8a2db-d621-4733-a822-8ca1f0d73046","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e7b8a2db-d621-4733-a822-8ca1f0d73046","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e7b8a2db-d621-4733-a822-8ca1f0d73046","level":"error"}
+{"message":"Bookmark with id e7b8a2db-d621-4733-a822-8ca1f0d73046 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id f23c503d-a8cc-46fa-b6ad-d2acf4c7471a created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/c61e8477-4b0d-4db2-9895-9d27cb7c03d6","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/c61e8477-4b0d-4db2-9895-9d27cb7c03d6","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/c61e8477-4b0d-4db2-9895-9d27cb7c03d6","level":"error"}
+{"message":"Bookmark with id c61e8477-4b0d-4db2-9895-9d27cb7c03d6 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 456f75f9-274b-4616-adde-648afc8f52f2 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/162daa52-c175-4c30-b4c4-4596c2518b1f","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/162daa52-c175-4c30-b4c4-4596c2518b1f","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/162daa52-c175-4c30-b4c4-4596c2518b1f","level":"error"}
+{"message":"Bookmark with id 162daa52-c175-4c30-b4c4-4596c2518b1f deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 15f71c70-aad7-4aa1-a54f-10cc33eca6ef created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/094b1f18-c728-41f7-bc0e-e55b56c3b3ad","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/094b1f18-c728-41f7-bc0e-e55b56c3b3ad","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/094b1f18-c728-41f7-bc0e-e55b56c3b3ad","level":"error"}
+{"message":"Bookmark with id 094b1f18-c728-41f7-bc0e-e55b56c3b3ad deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, $3) returning * - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5c1fe46d-9038-49fa-80ca-3250f65970fb","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5c1fe46d-9038-49fa-80ca-3250f65970fb","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5c1fe46d-9038-49fa-80ca-3250f65970fb","level":"error"}
+{"message":"Bookmark with id 5c1fe46d-9038-49fa-80ca-3250f65970fb deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, $3) returning * - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, DEFAULT, $2) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, DEFAULT) returning * - null value in column \"url\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values (DEFAULT, $1, $2) returning * - null value in column \"rating\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5b44a335-2565-4d45-bff8-d75043232725","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5b44a335-2565-4d45-bff8-d75043232725","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5b44a335-2565-4d45-bff8-d75043232725","level":"error"}
+{"message":"Bookmark with id 5b44a335-2565-4d45-bff8-d75043232725 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, $3) returning * - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, DEFAULT, $2) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, DEFAULT) returning * - null value in column \"url\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values (DEFAULT, $1, $2) returning * - null value in column \"rating\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b8f2b0fd-8476-4a47-b49a-2888d71b695a","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b8f2b0fd-8476-4a47-b49a-2888d71b695a","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b8f2b0fd-8476-4a47-b49a-2888d71b695a","level":"error"}
+{"message":"Bookmark with id b8f2b0fd-8476-4a47-b49a-2888d71b695a deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/doesnt-exist","level":"error"}
+{"message":"Bookmark with id doesnt-exist not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, $3) returning * - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, DEFAULT, $2) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, DEFAULT) returning * - null value in column \"url\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values (DEFAULT, $1, $2) returning * - null value in column \"rating\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, $3) returning * - invalid input value for enum star_rating: \"invalid\"","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, DEFAULT, $2) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values ($1, $2, DEFAULT) returning * - null value in column \"url\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"rating\", \"title\", \"url\") values (DEFAULT, $1, $2) returning * - null value in column \"rating\" violates not-null constraint","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/911","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/123","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
